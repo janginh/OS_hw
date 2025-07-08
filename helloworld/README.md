@@ -1,6 +1,6 @@
-주제 : hello_world systemcall 만들기
+# 주제 : hello_world systemcall 만들기
 
- 리눅스 ubuntu를 사용.
+## 리눅스 ubuntu를 사용.
 
  커널에 빌드하여 커널이 작업하는 systemcall을 만드는것을 목표로 실시하였습니다.
  과정 : 
